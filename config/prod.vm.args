@@ -1,0 +1,4 @@
+## Name of the node
+-name cowboy-prod@cowboy-prod-ip
+## Cookie for distributed erlang
+-setcookie cowboy-cookie
